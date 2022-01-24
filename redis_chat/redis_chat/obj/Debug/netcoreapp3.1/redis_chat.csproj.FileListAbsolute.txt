@@ -1,5 +1,0 @@
-C:\Source_Practice\Workspaces\redis_chat\redis_chat\redis_chat\obj\Debug\netcoreapp3.1\redis_chat.csprojAssemblyReference.cache
-C:\Source_Practice\Workspaces\redis_chat\redis_chat\redis_chat\obj\Debug\netcoreapp3.1\MainWindow.g.cs
-C:\Source_Practice\Workspaces\redis_chat\redis_chat\redis_chat\obj\Debug\netcoreapp3.1\App.g.cs
-C:\Source_Practice\Workspaces\redis_chat\redis_chat\redis_chat\obj\Debug\netcoreapp3.1\redis_chat_MarkupCompile.cache
-C:\Source_Practice\Workspaces\redis_chat\redis_chat\redis_chat\obj\Debug\netcoreapp3.1\redis_chat_MarkupCompile.lref
